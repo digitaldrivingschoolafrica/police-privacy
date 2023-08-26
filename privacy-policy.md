@@ -30,8 +30,7 @@ We want to inform users of this Service that these third parties have access to 
 Security
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-Children’s Privacy
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+Children’s Privacy: This service is designed exclusively for individuals who are seeking to obtain a driver's license and is not intended for anyone under the age of 13. We do not knowingly collect sensitive or personally identifiable information, especially from children under the age of 13. In the unlikely event that we become aware that a child under the age of 13 has provided us with any personal information, we will promptly delete this information from our servers. If you are a parent or guardian and believe that your child has inadvertently provided us with any personal information, please contact us immediately so that we can take the necessary actions. Please note that we do not provide government information, and we are not government-affiliated.
 
 Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
