@@ -1,11 +1,11 @@
 
-**Data Usage Policy for <Driving in Africa>**
+Data Usage Policy for Driving in Africa
 
-At <Driving in Africa>, we are committed to protecting the privacy of our users and ensuring the security and confidentiality of their personal data. This data usage policy is designed to inform you about how we collect, use, and protect your data.
+At Driving in Africa, we are committed to protecting the privacy of our users and ensuring the security and confidentiality of their personal data. This data usage policy is designed to inform you about how we collect, use, and protect your data.
 
 1. Data Collection
 
-When you use our <Driving in Africa> application, we collect the following data:
+When you use our Driving in Africa application, we collect the following data:
 
 1.1 Geolocation:** We collect your geolocation to facilitate coordination between you and the driving school. This allows the driving school to pick you up from your home for practical lessons.
 
